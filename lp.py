@@ -6,6 +6,7 @@ import numpy as np
 def neg(num):
         return -1*num
 
+# Dummy function
 def transform(isNormal):
         result=[]
         mt=matrix.mt
