@@ -1,7 +1,8 @@
 # Linear Programming Solver with Matrix
-
+```
 By [Qiming Liu](https://www.linkedin.com/in/qliu0831)
 This Solver uses package pulp: https://github.com/coin-or/pulp
+```
 
 ## Prequisite
 1. Requires Python 2.7 or Python >= 3.4 
