@@ -1,5 +1,5 @@
 # Linear Programming Solver with Matrix
-=========
+
 By [Qiming Liu](https://www.linkedin.com/in/qliu0831)
 This Solver uses package pulp: https://github.com/coin-or/pulp
 
